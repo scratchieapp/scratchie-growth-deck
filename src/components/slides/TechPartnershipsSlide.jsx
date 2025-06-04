@@ -20,19 +20,15 @@ const TechPartnershipsSlide = ({ goToStrategyHome }) => {
             <ul className="space-y-3 sm:space-y-4">
               <li className="flex items-start gap-3">
                 <Link className="w-5 h-5 sm:w-6 sm:h-6 text-purple-500 mt-1 flex-shrink-0" />
-                <span className="text-sm sm:text-base lg:text-lg"><strong>Slack integration</strong> - Native reward system</span>
-              </li>
-              <li className="flex items-start gap-3">
-                <Link className="w-5 h-5 sm:w-6 sm:h-6 text-purple-500 mt-1 flex-shrink-0" />
-                <span className="text-sm sm:text-base lg:text-lg"><strong>Teams integration</strong> - Microsoft workplace</span>
-              </li>
-              <li className="flex items-start gap-3">
-                <Link className="w-5 h-5 sm:w-6 sm:h-6 text-purple-500 mt-1 flex-shrink-0" />
                 <span className="text-sm sm:text-base lg:text-lg"><strong>Zapier connector</strong> - 5000+ app ecosystem</span>
               </li>
               <li className="flex items-start gap-3">
                 <Link className="w-5 h-5 sm:w-6 sm:h-6 text-purple-500 mt-1 flex-shrink-0" />
                 <span className="text-sm sm:text-base lg:text-lg"><strong>API partnerships</strong> - Custom integrations</span>
+              </li>
+              <li className="flex items-start gap-3">
+                <Link className="w-5 h-5 sm:w-6 sm:h-6 text-purple-500 mt-1 flex-shrink-0" />
+                <span className="text-sm sm:text-base lg:text-lg"><strong>Model Context Protocol (MCP)</strong> - AI tool connectivity</span>
               </li>
             </ul>
           </div>
@@ -45,15 +41,15 @@ const TechPartnershipsSlide = ({ goToStrategyHome }) => {
               </li>
               <li className="flex items-start gap-3">
                 <Handshake className="w-5 h-5 sm:w-6 sm:h-6 text-blue-500 mt-1 flex-shrink-0" />
-                <span className="text-sm sm:text-base lg:text-lg">BambooHR & Workday</span>
+                <span className="text-sm sm:text-base lg:text-lg">Geotab</span>
               </li>
               <li className="flex items-start gap-3">
                 <Handshake className="w-5 h-5 sm:w-6 sm:h-6 text-blue-500 mt-1 flex-shrink-0" />
-                <span className="text-sm sm:text-base lg:text-lg">Microsoft Viva suite</span>
+                <span className="text-sm sm:text-base lg:text-lg">Procore</span>
               </li>
               <li className="flex items-start gap-3">
                 <Handshake className="w-5 h-5 sm:w-6 sm:h-6 text-blue-500 mt-1 flex-shrink-0" />
-                <span className="text-sm sm:text-base lg:text-lg">Learning management systems</span>
+                <span className="text-sm sm:text-base lg:text-lg">Donesafe</span>
               </li>
             </ul>
           </div>
@@ -64,12 +60,12 @@ const TechPartnershipsSlide = ({ goToStrategyHome }) => {
             <div className="text-center">
               <div className="w-8 h-8 sm:w-10 sm:h-10 bg-purple-500 text-white rounded-full flex items-center justify-center font-bold mx-auto mb-2">Q3</div>
               <h4 className="font-semibold text-sm sm:text-base lg:text-lg">Foundation</h4>
-              <p className="text-xs sm:text-sm text-gray-600 mt-1">Slack & Teams integrations</p>
+              <p className="text-xs sm:text-sm text-gray-600 mt-1">openAPI and MCP</p>
             </div>
             <div className="text-center">
               <div className="w-8 h-8 sm:w-10 sm:h-10 bg-purple-500 text-white rounded-full flex items-center justify-center font-bold mx-auto mb-2">Q4</div>
               <h4 className="font-semibold text-sm sm:text-base lg:text-lg">Expansion</h4>
-              <p className="text-xs sm:text-sm text-gray-600 mt-1">Zapier & API partnerships</p>
+              <p className="text-xs sm:text-sm text-gray-600 mt-1">SafetyCulture, Geotab and Procore partnerships</p>
             </div>
             <div className="text-center">
               <div className="w-8 h-8 sm:w-10 sm:h-10 bg-purple-500 text-white rounded-full flex items-center justify-center font-bold mx-auto mb-2">2026</div>

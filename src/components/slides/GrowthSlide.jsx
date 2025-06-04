@@ -40,16 +40,16 @@ const GrowthSlide = () => {
                 <span className="text-green-600 font-bold text-sm sm:text-base">$75K MRR</span>
               </div>
               <div className="flex justify-between items-center p-3 bg-blue-50 rounded-lg">
-                <span className="font-semibold text-sm sm:text-base">20,000 users</span>
-                <span className="text-blue-600 font-bold text-sm sm:text-base">+$50K/month</span>
+                <span className="font-semibold text-sm sm:text-base">30,000 users</span>
+                <span className="text-blue-600 font-bold text-sm sm:text-base">+$55K/month</span>
               </div>
               <div className="flex justify-between items-center p-3 bg-purple-50 rounded-lg">
                 <span className="font-semibold text-sm sm:text-base">50,000 users</span>
-                <span className="text-purple-600 font-bold text-sm sm:text-base">+$200K/month</span>
+                <span className="text-purple-600 font-bold text-sm sm:text-base">+$150K/month</span>
               </div>
               <div className="flex justify-between items-center p-3 bg-orange-50 rounded-lg">
                 <span className="font-semibold text-sm sm:text-base">250,000 users</span>
-                <span className="text-orange-600 font-bold text-sm sm:text-base">+$1.2M/month</span>
+                <span className="text-orange-600 font-bold text-sm sm:text-base">+$1M/month</span>
               </div>
             </div>
           </div>
